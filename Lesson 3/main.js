@@ -119,9 +119,10 @@
 
 // for (const user of users) {
 //     if (user.status === true) {
-//         console.log(user.name + '-' + user.status)
+//         console.log(user.name + '-' + user.status);
 //     }
 // }
+//
 // for (const user of users) {
 //     if (!user.status) {
 //         console.log(user.name + '-' + user.status)
