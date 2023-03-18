@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="084da7b9-f99d-43fc-81f4-c8b55848dd15" name="Changes" comment="lesson 2+3 done">
-      <change afterPath="$PROJECT_DIR$/Lesson 4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 4/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 5/main.js" afterDir="false" />
+    <list default="true" id="084da7b9-f99d-43fc-81f4-c8b55848dd15" name="Changes" comment="hw 6 done">
+      <change afterPath="$PROJECT_DIR$/Lesson 8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 8/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,11 +39,16 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;js.introduce.parameter.add.jsdoc&quot;: &quot;true&quot;,
+    &quot;js.last.introduce.type&quot;: &quot;LET&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -59,6 +62,8 @@
       <updated>1676146305769</updated>
       <workItem from="1676146306788" duration="13248000" />
       <workItem from="1676576778165" duration="5842000" />
+      <workItem from="1676913535720" duration="12802000" />
+      <workItem from="1678816711010" duration="639000" />
     </task>
     <task id="LOCAL-00001" summary="create lesson 1">
       <created>1676146712137</created>
@@ -81,15 +86,34 @@
       <option name="project" value="LOCAL" />
       <updated>1676216982615</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hw 6 done">
+      <created>1677441936444</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677441936444</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create lesson 1" />
     <MESSAGE value="lesson 2+3 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 2+3 done" />
+    <MESSAGE value="hw 6 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw 6 done" />
   </component>
 </project>
